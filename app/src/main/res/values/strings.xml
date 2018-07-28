@@ -2,4 +2,6 @@
     <string name="app_name">Playground</string>
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
+    <string name="couroutine_replacement">coroutines!</string>
+
 </resources>
